@@ -7,6 +7,8 @@ git clone https://github.com/akbarsuper/akbarbomber
 
 cd akbarbomber
 
+ls
+
 python3 Akberbomber.py
 
 Enjoy! :)

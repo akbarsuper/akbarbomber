@@ -17,4 +17,4 @@ Enjoy! :)
 
 # Script SS
 
-![screenshot](https://github.com/test.png)
+![screenshot](https://github.com/akbarsuper/akbarbomber/raw/main/ScreenShot.jpg)

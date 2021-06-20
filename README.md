@@ -4,7 +4,9 @@ Thanks Akbar Superm.
 
 # Install & Run
 git clone https://github.com/akbarsuper/akbarbomber
+
 cd akbarbomber
+
 python3 Akberbomber.py
 
 Enjoy! :)
